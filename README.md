@@ -11,5 +11,4 @@ docker-compose up -d --build
 ###  アクセス
 
 - **Webアプリ**: http://localhost:3000
-- **API ドキュメント**: http://localhost:8000/docs
 - **API エンドポイント**: http://localhost:8000
